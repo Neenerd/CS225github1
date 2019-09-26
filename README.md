@@ -101,7 +101,7 @@ To clone a repository:
 
 * On the Local Destination screen, give the directory where you want the project to be locally.
 
-* Then select the New Project wizard and continue as when creating a new project in Eclipse.
+* Then select Import existing Eclipse projects.
 
 To commit changes, select your project, right-click.  Open the Team menu and select Commit.  You should see the Git Staging panel.  The Unstaged Changes panel shows files you have changed but not committed.  The Staged Changes panel shows the files you are about to commit.  You can just drag files from Unstaged to Staged (the equivalent of "git add").  Then type in your Commit message.  Clicking Commit and Push will both commit your changes and copy those changes to GitHub.
 
